@@ -1,0 +1,269 @@
+# Copyright (C) 2021 
+# This file is distributed under the same license as the Our Team (Group) plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Our Team (Group) 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/our-team-group\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-09-24T07:51:17+02:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: our-team-group\n"
+
+#. Plugin Name of the plugin
+msgid "Our Team (Group)"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin allows create Our Team plugin."
+msgstr ""
+
+#: includes/admin_functions.php:58
+#: includes/asmin_shortcode_fuctions.php:30
+msgid "General"
+msgstr ""
+
+#: includes/admin_functions.php:61
+msgid "Social"
+msgstr ""
+
+#: includes/admin_functions.php:76
+msgid "Description"
+msgstr ""
+
+#: includes/admin_functions.php:84
+msgid "Designation"
+msgstr ""
+
+#: includes/admin_functions.php:101
+msgid "Mobile"
+msgstr ""
+
+#: includes/admin_functions.php:105
+msgid "Website"
+msgstr ""
+
+#: includes/admin_functions.php:109
+msgid "Email"
+msgstr ""
+
+#: includes/admin_functions.php:113
+msgid "Skype"
+msgstr ""
+
+#: includes/admin_functions.php:117
+msgid "Facebook"
+msgstr ""
+
+#: includes/admin_functions.php:121
+msgid "Twitter"
+msgstr ""
+
+#: includes/admin_functions.php:125
+msgid "Pinterest"
+msgstr ""
+
+#: includes/admin_functions.php:129
+msgid "Linkedin"
+msgstr ""
+
+#: includes/admin_functions.php:134
+msgid "Instagram"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:33
+msgid "Title Settings"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:42
+msgid "Template"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:48
+msgid "Template 1"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:52
+msgid "Template 2"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:56
+msgid "Template 3"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:60
+msgid "Template 4"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:66
+msgid "Animation Effect"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:70
+msgid "Flip-y"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:71
+msgid "ZoomIn"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:77
+msgid "Hover Background Color"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:87
+msgid "Layouts"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:93
+msgid "Grid View"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:97
+msgid "Slider View"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:104
+msgid "Slides Per Row"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:112
+msgid "Auto Play"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:116
+#: includes/asmin_shortcode_fuctions.php:135
+msgid "Yes"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:117
+#: includes/asmin_shortcode_fuctions.php:136
+msgid "No"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:123
+msgid "Auto Play Timeout"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:131
+msgid "Navigation arrows"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:142
+msgid "Mobile Per Row"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:152
+msgid "Per Row Colum"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:162
+msgid "Page Title Settings"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:166
+msgid "Title"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:174
+#: includes/asmin_shortcode_fuctions.php:216
+msgid "Title Color"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:182
+#: includes/asmin_shortcode_fuctions.php:224
+msgid "Title Font Size"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:190
+#: includes/asmin_shortcode_fuctions.php:232
+msgid "Title Position"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:194
+#: includes/asmin_shortcode_fuctions.php:236
+#: includes/asmin_shortcode_fuctions.php:278
+#: includes/asmin_shortcode_fuctions.php:320
+msgid "Left"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:195
+#: includes/asmin_shortcode_fuctions.php:237
+#: includes/asmin_shortcode_fuctions.php:279
+#: includes/asmin_shortcode_fuctions.php:321
+msgid "Center"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:196
+#: includes/asmin_shortcode_fuctions.php:238
+#: includes/asmin_shortcode_fuctions.php:280
+#: includes/asmin_shortcode_fuctions.php:322
+msgid "Right"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:202
+#: includes/asmin_shortcode_fuctions.php:244
+msgid "Title Font Weight"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:206
+#: includes/asmin_shortcode_fuctions.php:248
+#: includes/asmin_shortcode_fuctions.php:290
+#: includes/asmin_shortcode_fuctions.php:332
+msgid "Normal"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:207
+#: includes/asmin_shortcode_fuctions.php:249
+#: includes/asmin_shortcode_fuctions.php:291
+#: includes/asmin_shortcode_fuctions.php:333
+msgid "Bold"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:212
+msgid "Post Title Settings"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:254
+msgid "Post Designation Settings"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:258
+#: includes/asmin_shortcode_fuctions.php:300
+msgid "Text Color"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:266
+#: includes/asmin_shortcode_fuctions.php:308
+msgid "Text Font Size"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:274
+#: includes/asmin_shortcode_fuctions.php:316
+msgid "Text Position"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:286
+#: includes/asmin_shortcode_fuctions.php:328
+msgid "Text Font Weight"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:296
+msgid "Post Description Settings"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:338
+msgid "Post Social Settings"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:342
+msgid "Icon Color"
+msgstr ""
+
+#: includes/asmin_shortcode_fuctions.php:350
+msgid "Icon Width"
+msgstr ""

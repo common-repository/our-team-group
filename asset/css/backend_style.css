@@ -1,0 +1,66 @@
+.teammember_details, .teams_settings {
+    width: 100%;
+    display: inline-block;
+}
+ul.teammember-tabs,  ul.team-data-tabs{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.teammember-tabs li, .team-data-tabs li{
+	display: inline-block;
+}
+ul.teammember-tabs li.teammember-tab-link, ul.team-data-tabs li.team-data-tab-link {
+    background: none;
+    color: #222;
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 500;
+    margin-bottom: 0;
+}
+.teammember-tab-content, .team-data-tab-content{
+    display: none;
+    background: #eee;
+    padding: 15px;
+}
+.teammember-tab-content.teammember-current, .team-data-tab-content.team-data-current {
+    display: inherit;
+}
+ul.teammember-tabs li.teammember-tab-link.teammember-current, ul.team-data-tabs li.team-data-tab-link.team-data-current{ 
+	background: #eee;
+}
+#teammember-tab-form th, #team-data-tab-form th {
+    background: #ccc;
+    font-size: 16px;
+    padding: 10px;
+}
+#teammember-tab-form input {
+    width: 100%;
+    height: auto;
+    min-height: 40px;
+    margin: 0;
+    padding: 0;
+}
+.general_data table, .teams_settings table{ 
+	width: 100%;
+}
+.general_data textarea{
+	width: 100%;
+}
+label {
+    font-weight: bold;
+}
+.teams_settings tr{ padding: 5px 0; }
+.teams_settings td{ padding: 5px; }
+h3.team_heading {
+    background-color: #333;
+    color: #FFF;
+    padding: 10px;
+}
+.team_slider, .team_grid{ display: none; }
+#team-data-tab-general th {
+    text-align: left;
+    width: 200px;
+}
